@@ -1,0 +1,3 @@
+python test.py --dataroot datasets/iphone2dslr_flower/testA --name iphone2dslr_flower_pretrained --model test --no_dropout
+python test.py --dataroot datasets/apple2orange/apple2orange/testA --name apple2orange_pretrained --model test --no_dropout
+python test.py --dataroot datasets/horse2zebra/horse2zebra/testA --name horse2zebra_pretrained --model test --no_dropout
